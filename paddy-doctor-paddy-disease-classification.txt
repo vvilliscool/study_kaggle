@@ -1,0 +1,7 @@
+# 벼 병충해 분류
+- Identify the type of disease present in paddy leaf images
+- 이미지 분류
+- 팀구성 : 5명
+- 성능 결과 : 0.98692
+- 링크 : https://www.kaggle.com/competitions/paddy-disease-classification
+- 등수 : 55등/ 464팀(기준 : 2022-07-30)
